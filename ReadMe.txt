@@ -1,3 +1,4 @@
+test purpose only
 #python3
 this script is used for finding whois data(creation,expired dates of sites) in a text file(sites.txt)
 command to run:
